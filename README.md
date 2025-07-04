@@ -1,1 +1,4 @@
-# CMS for ColourPlans
+
+# CMS for Colourplans
+
+project: **cplans**
